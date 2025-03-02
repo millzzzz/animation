@@ -14,6 +14,7 @@ G.O.A.T.E.D individual who has openly shared his 20 years of knowledge of animat
 6. Anime.js animation library
 7. GSAP animnation library
 8. SVG animations
+https://courses.nan.fyi/svg/00-svg-foundations
 
 
 Inspiration in Three.js
