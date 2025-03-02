@@ -13,3 +13,7 @@ G.O.A.T.E.D individual who has openly shared his 20 years of knowledge of animat
 5. Popmotion animation library
 6. Anime.js animation library
 7. GSAP animnation library
+
+
+Inspiration in Three.js
+- https://www.youtube.com/watch?v=Fe9CRBuKN1c&ab_channel=AleGonzalez
