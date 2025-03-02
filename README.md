@@ -6,3 +6,10 @@ G.O.A.T.E.D individual who has openly shared his 20 years of knowledge of animat
 - [] https://youtu.be/pF--YKCCUMw?si=D5Bv17dTjR3pBJse
 - [] https://youtu.be/E-sF_1FgpJw?si=OYsQg9lpi0J6EDcg
 - [] https://youtu.be/tX8jAmcrJgk?si=0Y1ObAUqFADJzv-A
+
+2. mo.js animation library
+3. Theatre.js animation library
+4. ScrollMagic animation library
+5. Popmotion animation library
+6. Anime.js animation library
+7. GSAP animnation library
